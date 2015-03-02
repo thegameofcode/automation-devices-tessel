@@ -1,0 +1,24 @@
+{
+  "name": "automation-mobile-tessel",
+  "version": "0.0.1",
+  "description": "Automation mobile allows to add a real smartphones as part of the bdd/atdd tests",
+  "main": "app.js",
+  "dependencies": {
+    "servo-pca9685": "~0.1.3",
+    "tiny-router": "~0.1.4",
+    "wifi-cc3000": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegameofcode/automation-mobile-tessel.git"
+  },
+  "author": "thegameofcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegameofcode/automation-mobile-tessel/issues"
+  }
+}
